@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+101,Shampoo,Personal Care,180
+102,Toothpaste,Personal Care,90
+103,Rice,Groceries,650
+104,Notebook,Stationery,45
+105,Pen,Stationery,15
+106,Milk,Dairy,60
+107,Bread,Bakery,40
+108,Butter,Dairy,90
+109,Detergent,Household,250
+110,Juice,Beverage,120
